@@ -7,9 +7,5 @@
         "classmap": [
             "src/"
         ]
-    },
-    "require": {
-        "phpseclib/phpseclib": "*",
-        "bis2arch/zend":"*"
     }
 }
